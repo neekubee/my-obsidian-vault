@@ -1,13 +1,11 @@
-# My Obsidian.md Use Case
-
 # About
 - **Hello**, I am Nikko Bonganay
-- I use Obsidian.md as my knowledge management system, named Life Hub
+- I use Obsidian as my knowledge management system, named Life Hub
 - External (e.g. Social Media, News, Books) and Internal (e.g. Thoughts, Opinions, Experiences) are all included inside my vault
 - For tasks management, I use Todoist
+- For note-taking, I use OneNote and RemNote
 - For my contributions to this world, I use various platforms like google sites, google blogger, medium, wordpress etc.
 - My main purpose for this github page is to share my obsidian use case since most community plugins are shared here.
-
 
 # My Community Plugins
 - **Activity History** by dakarah
