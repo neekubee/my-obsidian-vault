@@ -18,6 +18,7 @@
 - **Excalidraw** by Zsolt Viczian
 - **Fantasy Calendar** by Jeremy Valentine
 - **File Tree Alternative Plugin** by Ozan Tellioglu
+- **Highlightr** by Chetachi
 - **Kanban** by mgmeyers
 - **Mind Map** by James Lynch
 - **Minimal Theme Settings** by kepano
