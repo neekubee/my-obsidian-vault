@@ -10,6 +10,7 @@
 # My Community Plugins
 - **Activity History** by dakarah
 - **Admonition** by Jeremy Valentine
+- **Annotator** by [Elias Sundqvist](https://github.com/elias-sundqvist/obsidian-annotator)
 - **Calendar** by Liam Cain
 - **Convert url to preview (iframe)** by Hachez Floran
 - **Dataview** by Michael Brenan
